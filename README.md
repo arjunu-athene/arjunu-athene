@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arjun Umathanu ( @aumathanu-athene )
 - 👀 I’m interested in Full Stack Development and Automation.
-- 🌱 I’m currently learning Vue.js and FastAPI
-- 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Python
+- 🌱 I’m currently learning Vue.js, FastAPI, react-query, SASS, etc.,
+- 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 How to reach me? Tag me @aumathanu-athene or Email me AUmathanu@athene.com
 
 <!---
