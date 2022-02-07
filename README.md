@@ -11,7 +11,7 @@
 
 - 👋 &nbsp; Hi, I’m Arjun Umathanu ( @aumathanu-athene ). My Passion, Work and Hobby are all selfsame.
 - 👀 &nbsp; I’m interested in Full Stack Development and Automation.
-- 🌱 &nbsp; I’m currently learning Vue.js v3, react-query v3, MUI v5, react-router v6, SASS/SCSS, pytest, Angular v12, TypeScript etc.,
+- 🌱 &nbsp; I’m currently learning Vue.js v3, SASS/SCSS, pytest, TypeScript, Golang/Go etc.,
 - 💞️ &nbsp; I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Django/Python
 - 📫 &nbsp; How to reach me? Tag me @aumathanu-athene or Email me AUmathanu@athene.com
 
