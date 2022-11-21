@@ -12,15 +12,14 @@
 - 👋 Hi, I’m Arjun Umathanu (@arjunu-athene). My Passion, Work and Hobby are all selfsame.
 - 👀 I’m interested in Full Stack Development and Automation.
 - 🌱 I’m currently learning 
-  - 🧪 🏃 Jest, 
-  - 🧪 🥼 React Testing Library and 
-  - 🦾 ⌨️  TypeScript.
+  - 🧪 🏃 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
+  - 🧪 🥼 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) 
+  - 🦾 ⌨️ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Python/Go
 
 ## :computer: My Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
 
@@ -44,8 +43,6 @@
 ![Jinja](https://img.shields.io/badge/-jinja-AA0000?logo=jinja&style=for-the-badge)
 
 ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=#3371e3)
 ![Helm](https://img.shields.io/badge/helm-091C84?style=for-the-badge&logo=helm&logoColor=blue)
