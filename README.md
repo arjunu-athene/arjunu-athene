@@ -35,6 +35,7 @@
 ![React Query](https://img.shields.io/badge/ReactQuery-3e4349?style=for-the-badge&logo=reactquery&logoColor=#f59e0b)
 ![MUI](https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui&logoColor=#0072E5)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Formik](https://img.shields.io/badge/formik-0052cc?style=for-the-badge&logo=react)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-fff?logo=chart.js&style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
