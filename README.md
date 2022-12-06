@@ -69,45 +69,12 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ## 💥 GitHub Statistics
-<!---
-arjunu-athene/arjunu-athene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. # 24292F , 081E3C
---->
-
-<a href="https://github.com/arjunu-athene">
-<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunu-athene&show_icons=true&line_height=27&count_private=true&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun Umathanu's GitHub Stats" />
-</a>
 
 <a href="https://github.com/arjunu-athene">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunu-athene&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun Umathanu's Most Used Language Stats" />
-</a> -->
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arjunu-athene&theme=react&show_icons=true&line_height=27&count_private=true&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun Umathanu's GitHub Stats" />
 </a>
 
-<a href="https://github.com/arjunu-athene">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunu-athene&theme=react&hide=html,css&title_color=5FDAFA&text_color=c9cacc&icon_color=F7AF00&bg_color=161B22" alt="Arjun Umathanu's Most Used Language Stats" />
-</a>
-
-## :trophy: Github streaks
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arjunu-athene&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunu-athene&theme=react&repo=arjunu-athene&show_owner=true)](https://github.com/arjunu-athene/arjunu-athene) -->
-
-
-<!--
-<details>
-
-  [![Arjun Umathanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arjunu-athene&theme=react)](https://github.com/arjunu-athene/github-readme-stats)
-
-</details> -->
-
-
-<!-- <details>
-<summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arjunu-athene&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=161B22" />
-</details> -->
-
+<br>
+<br> 
 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arjunu-athene.arjunu-athene)
