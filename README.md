@@ -12,14 +12,18 @@
 - 👋 Hi, I’m Arjun Umathanu (@arjunu-athene). My Passion, Work and Hobby are all selfsame.
 - 👀 I’m interested in Full Stack Development and Automation.
 - 🌱 I’m currently learning 
-  - 🧪 🏃 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
-  - 🧪 🥼 ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) 
-  - 🦾 ⌨️ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
+  - ![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+  - ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
+  - ![Selenium](https://img.shields.io/badge/-selenium-A9A9A9?logo=selenium&style=for-the-badge)
 - 💞️ I’m looking to collaborate on Frontend using React/Vue and backend using FastAPI/Flask/Python/Go
 
-## :computer: My Tech Stack
+## 💻 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-007D9C?logo=go&style=for-the-badge&logoColor=white)
 
@@ -34,7 +38,6 @@
 ![React Query](https://img.shields.io/badge/ReactQuery-3e4349?style=for-the-badge&logo=reactquery&logoColor=#f59e0b)
 ![MUI](https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui&logoColor=#0072E5)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Formik](https://img.shields.io/badge/formik-0052cc?style=for-the-badge&logo=react)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-fff?logo=chart.js&style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -43,6 +46,8 @@
 ![Jinja](https://img.shields.io/badge/-jinja-AA0000?logo=jinja&style=for-the-badge)
 
 ![Pytest](https://img.shields.io/badge/pytest-3e4349?style=for-the-badge&logo=pytest&logoColor=yellow)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![TestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=#3371e3)
 ![Helm](https://img.shields.io/badge/helm-091C84?style=for-the-badge&logo=helm&logoColor=blue)
@@ -60,13 +65,17 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Poetry](https://img.shields.io/badge/poetry-000?style=for-the-badge&logo=poetry&logoColor=#0072E5)
+![Create-React-App](https://img.shields.io/badge/-CRA-303846?style=for-the-badge&logo=create-react-app&logoColor=297D69)
+![Vite](https://img.shields.io/badge/-VITE-1E1E20?style=for-the-badge&logo=vite)
 ![NPM](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=#0072E5)
 ![Yarn](https://img.shields.io/badge/yarn-fff?style=for-the-badge&logo=yarn&logoColor=#0072E5)
+![PNPM](https://img.shields.io/badge/-PNPM-242526?style=for-the-badge&logo=pnpm)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/-prettier-1A2B34?logo=prettier&style=for-the-badge)
 ![: my[py]](https://img.shields.io/badge/-mypy-2A5ADF?logo=python&style=for-the-badge&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VSCode-2C2C31?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ## 💥 GitHub Statistics
 
